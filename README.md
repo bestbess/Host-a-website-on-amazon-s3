@@ -1,4 +1,3 @@
-# Host-a-website-on-amazon-s3
 
 
 # Project: Hosting a Static Website on Amazon S3
